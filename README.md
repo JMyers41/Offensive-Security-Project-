@@ -29,3 +29,9 @@ For the final section, the Windows servers of the domain were exploited.
 Similarly to previous section, port scans and OSINT methods were used before exploitation to gain initial access. 
 
 Exploitations of the server consisted of similar methods to the Linux side. However, within Metasploit, different modules were used to target different vulnerabilities. Ultimately, we were able to gain initial access, establish persistence, move laterally along the network, and perform a DCSync against the domain controllers to pull credentials and obtain total access to the systems. 
+
+# Part 4: Penetration Test Report 
+
+Below is a link to my pentest report. Feel free to read in order to view detailed steps of the process. 
+
+https://docs.google.com/document/d/1OHREbsPBMLxxnKWoY2jlCFLFAIQm3JWVJKTmco-yBz0/edit?usp=sharing
